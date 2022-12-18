@@ -118,13 +118,13 @@
                      <Table >
                       <thead>
                       <tr>
-                        <th>ID</th>
-                        <th>Name</th>
-                        <th>Surname</th>
-                        <th>Status</th>
-                        <th>Age</th>
-                        <th>Delete</th>
-                        <th>Edit</th>
+                      <td><h3>ID</h3></td>
+                        <td><h3>Name</h3></td>
+                        <td><h3>Surname</h3></td>
+                        <td><h3>Status</h3></td>
+                        <td><h3>Age</h3></td>
+                        <td><h3>Delete</h3></td>
+                        <td><h3>Edit</h3></td>
                       </tr>
                       </thead>
                       <tbody>

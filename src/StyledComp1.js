@@ -81,7 +81,7 @@ width:1010px;
 height:350px;
 border:1px ;
 margin-left:25px;
-
+border:1px solid white;
 
 `;
 export const Footers=styled.div`
